@@ -1,0 +1,1 @@
+include ':app', ':myapplication', ':shop', ':filestream', ':runtest', ':filestreamclone', ':xml', ':xmlpullparser', ':sharepreferenceqq', ':sqlite', ':listview', ':product'
